@@ -1,0 +1,3 @@
+两组实测数据来自ping.mat 索引范围：9181-9271 及9281-9348
+
+可根据索引值从ping.mat和src.mat中获取此时src和rcv对应的gps，再经过deg2utm转化后得到此时src和rcv间的地形。

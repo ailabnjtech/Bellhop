@@ -1,0 +1,23 @@
+
+% ===========================================================================================================================================================
+%  Index      Name                 Type            Explanation
+%  Ping
+%  1.       PingID               String           Ping ID 
+%  2.       t                    Double           Time at each file
+%  3.       Pingtime             Datetime         Time of each Ping
+%  4.       rcv_lat              Double           latitude of rcv
+%  5.       rcv_lon              Double           longitude of rcv
+%  6.       Arrayheading         Double           Arrayheading of rcv
+%  7.       d2c                  Double           distance from boat to array
+%  8.       Depth                Double           Depth of rcv
+%  9.       sampFreq             Double           sample Frequency
+%  10.      ss                   Double           Ship Speed
+%  11.      r                    Double           range from src2rcv
+%  12.      pt                   Double           p_max of time domain
+%  13.      p_mf                 Double           p_max after MF & Integrate
+%  14.      pa                   Double           p_max after MF
+
+% Src
+% 1.       PingID               String            Ping ID
+% 2.       lon                  Double            Lontitude of src
+% 3.       lat                  Double            Latitude of src
